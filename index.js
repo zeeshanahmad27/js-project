@@ -1,4 +1,4 @@
-const names  = ['Ismail','Zeeshan'];
+const names  = ['ismail','zeeshan'];
 
 //js for show list of users
 document.querySelector(".gen").addEventListener("click", gene);
